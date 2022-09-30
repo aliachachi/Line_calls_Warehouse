@@ -22,5 +22,8 @@
 - The sql code in the file.sql
 - I write PDFs to show the Results in screenshots from Oracl cmd
 
+# Languages 
+- SQL
+- PL/SQL
 
 
